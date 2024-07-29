@@ -6,8 +6,8 @@
 # Introdução
 
 - Plugin de minecraft, objetivo EnxadaHost
-- que altera o windCharge do minecraft vanila
-- adiciona o comando home
+- Altera o windCharge do minecraft vanila
+- Adiciona o comando home
 ---
 # Tecnologias Utilizadas
 - Java
