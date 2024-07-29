@@ -30,4 +30,5 @@ repositories {
 
 dependencies {
     implementation 'mysql:mysql-connector-java:8.0.33'
+    compileOnly "org.spigotmc:spigot-api:1.21-R0.1-SNAPSHOT"
 }
