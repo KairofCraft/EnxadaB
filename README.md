@@ -13,6 +13,8 @@
 - Java
 - Gradle
 - MySQL
+- Bukkit / SpigoT
+- Git
 ---
 
 # Configuração do Projeto
@@ -28,5 +30,4 @@ repositories {
 
 dependencies {
     implementation 'mysql:mysql-connector-java:8.0.33'
-    implementation 'redis.clients:jedis:4.3.1'
 }
