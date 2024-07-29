@@ -1,0 +1,18 @@
+name: enxadaB
+version: '${version}'
+main: org.kairofcraft.enxadab.EnxadaB
+api-version: '1.21'
+load: STARTUP
+commands:
+  enxada:
+    description: PLugin de curriculo
+  enxada reload:
+    description: Recarrega o config.yml
+  enxada windCharge:
+    description: Recebe WindCharge personalizado
+  sethome:
+    description: Use para setar sua home
+  home:
+    description: Use para ir a sua home
+  deletehome:
+    description: Use para deletar sua home
