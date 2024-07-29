@@ -5,7 +5,7 @@
 
 # Introdução
 
-- Plugin de minecraft, objetivo EnxadaHost
+- Plugin de minecraft versão 1.21, objetivo EnxadaHost
 - Altera o windCharge do minecraft vanila
 - Adiciona o comando home
 ---
@@ -13,7 +13,7 @@
 - Java
 - Gradle
 - MySQL
-- Bukkit / SpigoT
+- Bukkit / Spigot
 - Git
 ---
 
